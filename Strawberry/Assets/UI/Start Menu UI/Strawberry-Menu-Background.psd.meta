@@ -147,7 +147,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Strawberry-Menu-Background_0: 6980248387224067620
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
