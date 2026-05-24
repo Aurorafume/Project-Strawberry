@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 6d91f123913fd614b9c84f4a81fc149c
+guid: 10a293c86a1172f4f8e0afd7642ef0cc
 importerOverride:
   nativeImporterType: 2089858483
   scriptedImporterType:
@@ -88,7 +88,7 @@ ScriptedImporter:
       y: 0
       width: 0
       height: 0
-    spriteID: b2a49b3fcd1e24e4a839f3ce15e7f465
+    spriteID: e8b527d1bc9b0054baed76a3256ab24a
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -111,8 +111,8 @@ ScriptedImporter:
       x: 4
       y: 4
       width: 108
-      height: 55
-    spriteID: 04b4e4b4d0351fb4785f2415a6156515
+      height: 60
+    spriteID: 06b3f4e4e6dd0d844944df23f22f2fac
     spriteBone: []
     spriteOutline: []
     vertices: []
@@ -121,28 +121,6 @@ ScriptedImporter:
     edges: []
     tessellationDetail: 0
     uvTransform: {x: 4, y: 4}
-    spritePosition: {x: 15, y: 38}
-  - name: Layer 2
-    originalName: 
-    pivot: {x: 0.5, y: 0.5}
-    alignment: 0
-    border: {x: 0, y: 0, z: 0, w: 0}
-    customData: 
-    rect:
-      serializedVersion: 2
-      x: 4
-      y: 67
-      width: 106
-      height: 55
-    spriteID: ef76b5d9a9bd82a49909efbc0df58bfa
-    spriteBone: []
-    spriteOutline: []
-    vertices: []
-    spritePhysicsOutline: []
-    indices: 
-    edges: []
-    tessellationDetail: 0
-    uvTransform: {x: 4, y: 67}
     spritePosition: {x: 15, y: 38}
   spriteImportData: []
   rigSpriteImportData: []
@@ -190,7 +168,7 @@ ScriptedImporter:
   mosaicLayers: 1
   characterMode: 1
   documentPivot: {x: 0, y: 0}
-  documentAlignment: 0
+  documentAlignment: 7
   importHiddenLayers: 0
   layerMappingOption: 2
   generatePhysicsShape: 0
@@ -219,19 +197,9 @@ ScriptedImporter:
     spriteName: Layer 3
     isGroup: 0
     parentIndex: -1
-    spriteID: 04b4e4b4d0351fb4785f2415a6156515
+    spriteID: 06b3f4e4e6dd0d844944df23f22f2fac
     layerID: 4
     mosaicPosition: {x: 4, y: 4}
-    flatten: 0
-    isImported: 1
-    isVisible: 1
-  - name: Layer 2
-    spriteName: Layer 2
-    isGroup: 0
-    parentIndex: -1
-    spriteID: ef76b5d9a9bd82a49909efbc0df58bfa
-    layerID: 3
-    mosaicPosition: {x: 4, y: 67}
     flatten: 0
     isImported: 1
     isVisible: 1
@@ -239,7 +207,7 @@ ScriptedImporter:
   rigPSDLayers: []
   sharedRigPSDLayers: []
   importFileNodeState: 1
-  platformSettingsDirtyTick: 639151772913938685
+  platformSettingsDirtyTick: 639152262252094010
   spriteSizeExpandChanged: 0
   generateGOHierarchy: 0
   textureAssetName: 
